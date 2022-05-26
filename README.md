@@ -1,4 +1,8 @@
-## Olá, meu nome é Richard Wendel Batista
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;I'm+Richard+Wendel;And+I+love+🚀+R+🚀&center=true&size=25&color=F718D2">
+  </a>
+</h1>
 
 <div align="center">
   <a href="https://github.com/Richardwenb">
