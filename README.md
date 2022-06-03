@@ -22,7 +22,7 @@
 </div>
 
   ```javascript
-const Rwb = {
+const Richardwenb = {
   age: 20,
   country: Brazil,
   code: [R, HTML, CSS, Python, Java],
