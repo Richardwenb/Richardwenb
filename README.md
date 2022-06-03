@@ -21,4 +21,20 @@
  
 </div>
 
+  ```javascript
+const Rwb = {
+  age: 20,
+  country: Brazil,
+  code: [R, HTML, CSS, Python, Java],
+  tools: [Figma, Flutter, Flutter Flow],
+  design: [Photoshop & more],
+  languages: ["Portuguese-BR"],
+  
+  myJob: {
+      company: "Marilan Alimentos",
+      location: "Marília - SP",
+      occupation: "Data Scientist"
+  }
+}
+  ```
   ![snake.gif](https://github.com/Richardwenb/Richardwenb/blob/output/github-contribution-grid-snake.svg)
