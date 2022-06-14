@@ -38,5 +38,4 @@ const Richardwenb = {
 }
 ```
   ![snake.gif](https://github.com/Richardwenb/Richardwenb/blob/output/github-contribution-grid-snake.svg)
-  
-   ![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+ 
