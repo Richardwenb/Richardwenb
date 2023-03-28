@@ -31,7 +31,7 @@ const Richardwenb = {
   languages: ["Portuguese-BR"],
   
   myJob: {
-      company: "Marilan Alimentos",
+      company: "Internet Way",
       location: "Marília - SP",
       occupation: "Data Scientist"
     }
