@@ -23,19 +23,19 @@
 
   ```javascript
 const Richardwenb = {
-  age: 20,
+  age: 22,
   country: Brazil,
-  code: [R, HTML, CSS, Python, Java],
+  code: [R, HTML, CSS, Python],
   tools: [Figma, Flutter, Flutter Flow],
   design: [Photoshop & more],
   languages: ["Portuguese-BR"],
   
   myJob: {
-      company: "Internet Way",
+      company: "Telecontrolᴮᴿ",
       location: "Marília - SP",
-      occupation: "Data Scientist"
+      occupation: "Deployment Analyst"
     }
 }
 ```
-  ![snake.gif](https://github.com/Richardwenb/Richardwenb/blob/output/github-contribution-grid-snake.svg)
+ ```![snake.gif](https://github.com/Richardwenb/Richardwenb/blob/output/github-contribution-grid-snake.svg)```
  
